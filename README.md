@@ -5,7 +5,7 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 
-## Assignment 7 [Live Link]()
+## Assignment 7 [Live Link](https://live-project-07.netlify.app/)
 
 - Skills Gained during this assignment
   - Learnt to use absolute position property frequently.
